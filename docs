@@ -1,1 +1,26 @@
 para documentos
+por ejemplo:
+# Introducción 📘
+
+El presente proyecto tiene como objetivo aplicar el uso de Markdown en un contexto académico.  
+Se busca evidenciar cómo la escritura estructurada y documentada mejora la presentación de proyectos.
+
+# Desarrollo 📙
+
+En este proyecto se implementó Markdown para crear archivos organizados en carpetas:
+- **README.md**: Presenta el proyecto.
+- **guia-markdown.md**: Sirve como manual práctico.
+- **bitacora.md**: Permite registrar avances.
+- **docs**: Contiene los apartados principales.
+- **tests**: Contiene las pruebas realizadas.
+
+Se incluyeron ejemplos de listas, tablas, código y citas, demostrando la versatilidad de Markdown.
+
+# Conclusiones 📕
+
+El uso de Markdown:
+- Facilita la escritura técnica.
+- Permite crear documentación limpia y clara.
+- Favorece la organización de proyectos.
+
+Se concluye que dominar Markdown es una habilidad útil para estudiantes y profesionales.
