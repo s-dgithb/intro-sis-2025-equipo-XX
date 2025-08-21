@@ -1,1 +1,8 @@
-para pseudocodigo
+src/
+├── main.py               # archivo principal del proyecto (ejemplo en Python)
+├── utils.py              # funciones auxiliares
+├── tests/
+│   ├── test_main.py      # pruebas del archivo principal
+│   └── test_utils.py     # pruebas de funciones
+└── __init__.py           # indica que src es un paquete de Python
+
