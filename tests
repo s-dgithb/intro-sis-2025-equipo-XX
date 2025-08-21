@@ -1,1 +1,29 @@
 para pruebas o validación
+# Prueba de Markdown ⚙️
+
+## Lista
+- Elemento 1
+- Elemento 2
+
+## Tabla
+| Lenguaje | Popularidad |
+|----------|-------------|
+| Python   | Alta        |
+| Java     | Media       |
+
+## Código
+```javascript
+console.log("Hola Markdown");
+
+
+#### 📜 `resultados.md`
+```markdown
+# Resultados ✅
+
+Las pruebas realizadas demostraron que:
+- Markdown interpreta correctamente encabezados, listas y tablas.
+- El formato de código es útil para documentar programas.
+- La estructura del proyecto quedó clara y organizada.
+
+El uso de Markdown cumple con los objetivos planteados.
+
