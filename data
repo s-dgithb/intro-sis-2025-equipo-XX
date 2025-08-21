@@ -1,5 +1,5 @@
 para datos
-data/
+
 ├── captura_readme.png          # evidencia de cómo se ve tu README en GitHub
 ├── evidencia_bitacora.png      # captura de la bitácora o avance semanal
 └── pruebas_tests.png           # captura de la ejecución de pruebas
