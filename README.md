@@ -3,7 +3,7 @@ Trabajo grupal -> Repositorio creado por:
 -Sara Delgado-s-dgithb;
 -Juan Sebastian Rodriguez-sebastiannrodriguezz009;
 -Manuel Saravia- ManuSaravia;
--Andres David-Andrws12.
+-David Andres Santa Marin-Andrws12.
 
 el objetivo del repositorio es:Desarrollar habilidades en la creación, organización y colaboración en GitHub utilizando únicamente la interfaz web, fomentando el trabajo en equipo mediante la gestión de ramas, issues, pull requests y documentación en Markdown. Este repositorio servirá como base para la siguiente clase, en la que se trabajará con Git de manera local.
 
