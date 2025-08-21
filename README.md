@@ -1,18 +1,23 @@
 # Actividad: Colaboración y estructuración de repositorios con GitHub
-trabajo grupal. Repositorio creado por: Sara Delgado-s-dgithb, Juan Sebastian Rodriguez-sebastiannrodriguezz009, Manuel Saravia- ManuSaravia y Andres David-Andrws12
+Trabajo grupal -> Repositorio creado por: 
+-Sara Delgado-s-dgithb;
+-Juan Sebastian Rodriguez-sebastiannrodriguezz009;
+-Manuel Saravia- ManuSaravia;
+-Andres David-Andrws12.
+
 el objetivo del repositorio es:Desarrollar habilidades en la creación, organización y colaboración en GitHub utilizando únicamente la interfaz web, fomentando el trabajo en equipo mediante la gestión de ramas, issues, pull requests y documentación en Markdown. Este repositorio servirá como base para la siguiente clase, en la que se trabajará con Git de manera local.
 
 
 Tabla de tareas:| Tarea                       | Responsable              | Estado |
-| ------------------------------------------- | ------------------------ | ------ |
-| Crear repositorio en GitHub                 | Sara Delgado             | ✔️     |
-| Añadir colaboradores                        | Juan Sebastián Rodríguez | ✔️     |
-| Crear estructura de carpetas y archivos     | Manuel Saravia           | ⏳      |
-| Elaborar README inicial                     | Andrés David             | ⏳      |
-| Documentación en Markdown (guía y bitácora) | Todos                    | ⏳      |
-| Issues y Pull Requests                      | Todos                    | ⏳      |
-| Protección de la rama main                  | Sara Delgado             | ⏳      |
-| Subir archivo de datos en /data             | Manuel Saravia           | ⏳      |
+
+| Crear repositorio en GitHub                 -> Sara Delgado              -> ✔️     
+| Añadir colaboradores                        -> Juan Sebastián Rodríguez  -> ✔️   
+| Crear estructura de carpetas y archivos     -> Manuel Saravia            -> ⏳      
+| Elaborar README inicial                     -> Andrés David              -> ⏳     
+| Documentación en Markdown (guía y bitácora) -> Todos                     -> ⏳      
+| Issues y Pull Requests                      -> Todos                     -> ⏳      
+| Protección de la rama main                  ->  Sara Delgado             -> ⏳      
+| Subir archivo de datos en /data             ->  Manuel Saravia           -> ⏳      
 
 
 
