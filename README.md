@@ -34,3 +34,17 @@ Flujo de trabajo propuesto:
     
 6) Protección de rama principal: activado el requerimiento de revisiones antes de merge.
 
+## 📝 Convenciones
+- **Ramas:** `docs/*`, `feature/*`, `fix/*`, `chore/*`
+  
+- **Commits:**
+  
+  - `docs: agrega ejemplos de listas`
+     
+  - `feature: función para leer csv`
+    
+  - `fix: corrige ruta de imagen`
+    
+- **Mensajes de PR:** resumen claro + “Closes #N”.
+
+
