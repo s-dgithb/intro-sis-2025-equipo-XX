@@ -12,7 +12,7 @@ Tabla de tareas:| Tarea                       | Responsable              | Estad
 
 | Crear repositorio en GitHub                 -> Sara Delgado              -> ✔️     
 | Añadir colaboradores                        -> Juan Sebastián Rodríguez  -> ✔️   
-| Crear estructura de carpetas y archivos     -> Manuel Saravia            -> ⏳      
+| Crear estructura de carpetas y archivos     -> Manuel Saravia            -> ✔️      
 | Elaborar README inicial                     -> Andrés David              -> ⏳     
 | Documentación en Markdown (guía y bitácora) -> Todos                     -> ⏳      
 | Issues y Pull Requests                      -> Todos                     -> ⏳      
